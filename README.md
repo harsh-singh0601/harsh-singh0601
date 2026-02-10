@@ -37,8 +37,9 @@
 
 ### 💻 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,github,html,css,mysql,flask,django,machine learning&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,github,html,css,mysql,flask,django,tensorflow&theme=dark"/>
 </p>
+
 
 ### 🔍 Core Strengths  
 - Data Science 
@@ -107,7 +108,7 @@
 
 📧 **Email:** `harshkumarsingh0601@gmail.com`  
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harsh-kumar-singh-5b2030345)  
-📸 **Instagram:** [@imrishivats](https://instagram.com/_harsh_singh01__)
+📸 **Instagram:** [@HarshSingh](https://instagram.com/_harsh_singh01__)
 
 ---
 
